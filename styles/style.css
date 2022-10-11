@@ -1,0 +1,9 @@
+.phone li:first-child{
+    background-color: blue;
+    width: 9% ;
+    
+}
+.phone li:last-child{
+    background-color: blue;
+    width: 5%;
+}
